@@ -6,4 +6,4 @@
 
 Сайт разработчика: [ArtemSannikov.ru](http://artemsannikov.ru)
 
-Приложение в Play Market: (Зал славы Интернета)[https://play.google.com/store/apps/details?id=com.hall.internet]
+Приложение в Play Market: (Зал славы Интернета)[https://play.google.com/store/apps/details?id=com.hall.fame.internet]
